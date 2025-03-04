@@ -1,4 +1,4 @@
-# SQL-Chat-bot 🤖
+# SQL Chat bot 🤖
 The chat bot translates the written language into SQL and then sends a query to the database, returning the result.
 
 ## How it works
